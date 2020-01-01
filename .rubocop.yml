@@ -345,7 +345,7 @@ Layout/ExtraSpacing:
   # When true, forces the alignment of `=` in assignments on consecutive lines.
   ForceEqualSignAlignment: false
 
-Layout/FirstParameterIndentation:
+Layout/IndentFirstArgument:
   EnforcedStyle: consistent
   SupportedStyles:
     # The first parameter should always be indented one step more than the
@@ -381,7 +381,7 @@ Layout/IndentationWidth:
   IgnoredPatterns: []
 
 # Checks the indentation of the first element in an array literal.
-Layout/IndentArray:
+Layout/IndentFirstArrayElement:
   # The value `special_inside_parentheses` means that array literals with
   # brackets that have their opening bracket on the same line as a surrounding
   # opening round parenthesis, shall have their first element indented relative
@@ -409,7 +409,7 @@ Layout/IndentAssignment:
   IndentationWidth: ~
 
 # Checks the indentation of the first key in a hash literal.
-Layout/IndentHash:
+Layout/IndentFirstHashElement:
   # The value `special_inside_parentheses` means that hash literals with braces
   # that have their opening brace on the same line as a surrounding opening
   # round parenthesis, shall have their first key indented relative to the
@@ -431,7 +431,7 @@ Layout/IndentHash:
   IndentationWidth: ~
 
 Layout/IndentHeredoc:
-  EnforcedStyle: auto_detection
+  EnforcedStyle: unindent
   SupportedStyles:
     - auto_detection
     - squiggly
@@ -1435,7 +1435,7 @@ Style/WordArray:
   WordRegex: !ruby/regexp '/\A[\p{Word}\n\t]+\z/'
 
 Style/YodaCondition:
-  EnforcedStyle: all_comparison_operators
+  EnforcedStyle: require_for_all_comparison_operators
   SupportedStyles:
     # check all comparison operators
     - all_comparison_operators
