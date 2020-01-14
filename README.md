@@ -37,6 +37,8 @@ To switch versions of ruby type
 
 Assuming ruby 2.5.5 or greater, you can now run:
 `gem install bundler`
+And then:
+
 'bundle install'
 
 Pending the success of the above, you are now ready to build the website.
