@@ -36,9 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 collections:
-  posts:
-    output: true
-    permalink: /_posts
   resources:
     output: true
     permalink: /_resources
