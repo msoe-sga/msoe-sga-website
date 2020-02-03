@@ -28,9 +28,16 @@ twitter_username: msoe4me
 github_username:  msoe-sg-hosting
 
 # Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+collections:
+  resources:
+    output: true
+    permalink: /_resources
+
 
 blog:
   description: Description is here
