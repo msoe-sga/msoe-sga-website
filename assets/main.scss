@@ -2,7 +2,9 @@
 # Only the main Sass file needs font matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+@import "fonts";
+@import "header";
+@import "base";
 @import "minima";
 
 .site-nav {
@@ -29,7 +31,3 @@
 .icons a {
   color: #000000; //Set the color to black for now, maybe change to theme color
 }
-
-@import "fonts";
-@import "header";
-@import "base";
