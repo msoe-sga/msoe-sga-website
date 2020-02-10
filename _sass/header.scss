@@ -1,9 +1,14 @@
 .site-title {
     font-weight: bold;
+    text-align: center;
 }
 
 .site-nav {
     /* make menu appear under title */
     clear: left;
     float: none;
+}
+.header-logo {
+	padding: 2.0rem 0rem;
+	width: 60%;
 }
