@@ -37,9 +37,6 @@ plugins:
 # Permalinks
 permalink                    : posts/:slug
 
-# Posts
-excerpt_separator            : <!–-break-–>
-
 # Pagination
 paginate                     : 5
 paginate_path                : '/page/:num/'
