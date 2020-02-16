@@ -33,12 +33,22 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+# Permalinks
+permalink                    : posts/:slug
+
+# Posts
+excerpt_separator            : <!–-break-–>
+
+# Pagination
+paginate                     : 5
+paginate_path                : '/page/:num/'
+
 collections:
   resources:
     output: true
-    permalink: /_resources
-
-
+    permalink: /resources/:path
+    title: resources
 
 blog:
   description: Description is here

@@ -46,7 +46,6 @@ GEM
       jekyll-github-metadata (= 2.12.1)
       jekyll-mentions (= 1.5.1)
       jekyll-optional-front-matter (= 0.3.2)
-      jekyll-paginate (= 1.1.0)
       jekyll-readme-index (= 0.3.0)
       jekyll-redirect-from (= 0.15.0)
       jekyll-relative-links (= 0.6.1)
@@ -268,6 +267,7 @@ DEPENDENCIES
   faraday (~> 0.17.1)
   github-pages
   jekyll-feed
+  jekyll-paginate
   minima (~> 2.5)
   rubocop-jekyll
 
