@@ -4,9 +4,9 @@ title: Website Under Construction
 author: Andy Wojciechowski
 ---
 
-The MSOE Society of Software Engineers started planning revamping the MSOE Student Government website last summer with Student Government's approvoal. Originally, the official MSOE Student Government was published with WordPress and the original WordPress site was going to be revamped, but as time went on as the MSOE Society of Software Engineers started work on revamping the MSOE Student Government it became clear that Jekyll was a better choice for Student Government. Since Jekyll is just as easy to setup as WordPress, can be hosted on GitHub completly for Free, as well as makes it eaiser for Student Government editors to put content on the site as well. We will also be working on a custom website editor which will allow Student Government members to edit content on the website without the need to go through the Society of Software Engineers. 
+The MSOE Society of Software Engineers started planning revamping the MSOE Student Government website last summer with Student Government's approvoal. Originally, the official MSOE Student Government was published with WordPress and the original WordPress site was going to be revamped, but as time went on as the MSOE Society of Software Engineers started work on revamping the MSOE Student Government it became clear that Jekyll was a better choice for Student Government. Since Jekyll is just as easy to setup as WordPress, can be hosted on GitHub completly for free, as well as makes it eaiser for Student Government editors to put content on the site as well. We will also be working on a custom website editor which will allow Student Government members to edit content on the website without the need to go through the Society of Software Engineers. 
 
-# What is Jekyll
+# What is Jekyll?
 > Jekyll is a simple, blog-aware, static site generator.
 
 In other terms, Jekyll is a blogging platform that can be levereged to accomplish many different site goals - and it is open source! This means that we can use the platform to build and engaging, informative, and custom website that can be easily updated by the students of SSE or by memebers of Student Government.
