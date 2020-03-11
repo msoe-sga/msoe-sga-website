@@ -1,7 +1,7 @@
 ---
 title: Org Packet
 layout: post
-permalink: /_resources/org_packet
+permalink: /resources/org_packet
 ---
 
 This is the org packet for student organizations. Please print off the form
