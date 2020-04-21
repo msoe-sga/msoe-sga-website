@@ -130,6 +130,8 @@ GEM
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-pdf-embed (1.0.4)
+      jekyll
     jekyll-readme-index (0.3.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.15.0)
@@ -270,8 +272,9 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-paginate
+  jekyll-pdf-embed
   minima (~> 2.5)
   rubocop-jekyll
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
