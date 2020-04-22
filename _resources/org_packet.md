@@ -1,8 +1,9 @@
 ---
-title: Org Packet
+title: Student Organization Resource Packet
 layout: post
 permalink: /resources/org_packet
 ---
 
-This is the org packet for student organizations. Please print off the form
-and be sure to email it to <someone_important> by <some_deadline>. 
+Last Updated: 8/29/19
+
+{% pdf "/assets/8-29-19_Student Organization Resource Packet.pdf" %}
