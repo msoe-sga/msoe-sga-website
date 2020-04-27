@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/msoe-sg/msoe-sg.github.io.svg?branch=master)](https://travis-ci.org/msoe-sg/msoe-sg-website)
+[![Build Status](https://travis-ci.org/msoe-sg/msoe-sg-website.svg?branch=master)](https://travis-ci.org/msoe-sg/msoe-sg-website)
 ## Welcome to the student government frontend repository. 
 #### We're really happy to have you.
 
