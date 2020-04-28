@@ -6,8 +6,8 @@ Keep reading to learn how to set up this repository.
 In general, this repository is managed by the editor and few manual edits should be made; however, on the off chance you're one of the rare people interacting with the frontend directory, the setup instructions below should help you get started!
 
 ## Setup
-1. Follow the instructions from the wiki article [here](https://github.com/msoe-sg/msoe-sg-website/wiki/Environment-Setup) to setup your environment.
-2. Open up a terminal to the folder where you want to clone the repo and run the command`git clone git@github.com:msoe-sg/msoe-sg.github.io.git`
+1. Follow the instructions from the wiki article [here](https://github.com/msoe-sg/msoe-sg-website/wiki/Environment-Setup) to setup your development environment.
+2. Open up a terminal to the folder where you want to clone the repo and run the command `git clone git@github.com:msoe-sg/msoe-sg.github.io.git`
 3. After run the clone change into the project directory by running the command `cd msoe-sg-website`
 4. Next install the dependencies for the site by running the command `bundle install`
 6. If the bundle install command succeeds you should be able to run the site locally by running the command `bundle exec jekyll serve`. This should put forth some output, and you can now view the site locally on port 4000.
