@@ -7,8 +7,6 @@ permalink: /about/
 <div class="page" markdown="1">
 Student Government is a student-run organization that strives to promote student involvement, organizational development, and positive change on campus. From an executive perspective, Student Government is the representative body of the students. The work its members put into the organization is shown through their addressing of important issues and their ability to work with MSOE’s faculty and administration to ensure the voice of the students is heard, and their needs addressed.
 
-## This is a test change and will be reverted
-
 ## Accomplishments:
 <details>
 <summary>2016-17 Academic Year: President Jordan Crawford</summary>
