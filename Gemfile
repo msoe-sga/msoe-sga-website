@@ -6,7 +6,7 @@ gem 'minima', '~> 2.5'
 gem 'github-pages', group: :jekyll_plugins
 group :jekyll_plugins do
   gem 'jekyll-feed'
-  gem 'jekyll-paginate'
+  gem 'jekyll-paginate-v2'
   gem 'jekyll-pdf-embed'
 end
 # Performance-booster for watching directories on Windows
