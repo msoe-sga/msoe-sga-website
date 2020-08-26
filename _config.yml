@@ -45,6 +45,7 @@ pagination:
   per_page: 3
   permalink: '/:num/'
   limit: 0
+  sort_reverse: true
 
 collections:
   resources:
