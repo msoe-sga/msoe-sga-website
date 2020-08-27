@@ -37,6 +37,8 @@ plugins:
 
 # Permalinks
 permalink                    : posts/:slug
+# Post Excerpt
+excerpt_separator: <!--end_excerpt-->
 # Pagination
 pagination:
   #Site-wide kill switch
