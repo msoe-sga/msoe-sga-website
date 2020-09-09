@@ -1,16 +1,32 @@
 ---
 layout: default
 title: "Home"
+pagination:
+  enabled: true
 ---
 
 {% for post in paginator.posts %}
 
-<div>
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<h4>{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}</h4>
-	<br><br>
-</div>
+  <div>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h4>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</h4>
+    <br><br>
+  </div>
 
 {% endfor %}
 
 
+{% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Back</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+{% endif %}

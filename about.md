@@ -4,47 +4,21 @@ title: About
 permalink: /about/
 ---
 
-<div class="page" markdown="1">
-Student Government is a student-run organization that strives to promote student involvement, organizational development, and positive change on campus. From an executive perspective, Student Government is the representative body of the students. The work its members put into the organization is shown through their addressing of important issues and their ability to work with MSOE’s faculty and administration to ensure the voice of the students is heard, and their needs addressed.
+The Student Government Association (SGA) is an organization that’s by the students, for the students. Our mission is to enrich both the student life and experience while attending MSOE. This is accomplished through standing senate committees on SGA, representation on university committees, advocacy, and approving funding requests to any registered and recognized student organizations on campus.
 
-## Accomplishments:
-<details>
-<summary>2016-17 Academic Year: President Jordan Crawford</summary>
-• Bike pump installed at the library
-<br>
-• Overnight dorm policy
-<br>
-• Extended and Expanded Shuttle Service
-<br>
-• Family Friendly Bathrooms in every Academic Building
-<br>
-• Added Freshman Senate Representation
-<br>
-• Launch the Kern Cafe
-<br>
-• Interviewed & hiring new administration and Leadership
-<br>
-<br>
-</details>
+We achieve this through the work of the Executive branch, the Cabinet, and the Senate. The Executive branch consists of the President and the Vice President. The Cabinet consists of the Parliamentarian, the Treasurer, the Secretary, the Communications Coordinator, and the Events Chairperson. The Senate consists of 10 traditional undergraduate students with 2 freshman undergraduate students. SGA reports through the Office of Student Life and is advised by the Dean of Students. SGA meets every Monday throughout the academic year from 1:05 to 1:50 PM. Any member within the MSOE community is welcomed and encouraged to attend the SGA’s weekly meeting.
 
-<details>
-<summary>2015-16 Academic Year: President Landon Mara</summary>
+## Accomplishments
+Since the establishment of the Student Government Association at MSOE, over 100 undergraduate students have strove to promote student involvement, organizational development, and positive change on campus. From their hard work and dedication that they poured into this organization: through addressing important issues; working alongside with MSOE’s faculty and administration; and ensuring the voice of the students is heard, and their needs addressed, that the Student Government Association have made accomplishments that improved the student life here at MSOE. Below are the accomplishments that the Student Government Association have made that is still present in MSOE to this day:
 
-• FSI improvements
-<br>
-• Water Bottle station at Kern Center
-<br>
-• Campus Center open 24/7 during academic year
-<br>
-<br>
-</details>
-
-<details>
-<summary>2014-15 Academic Year: President Jonathan Braathen</summary>
-
-• Student Representation on University Laptops
-<br>
-<br>
-</details>
-
-</div>
+* Addition of Freshman representation to the Senate
+* Addition of student representation on university laptops
+* Establishment of family friendly restrooms in every academic building
+* Extended and expanded campus shuttle services through SHIP (Safely Hauling Individuals Places)
+* Extended Campus Center hours to be open 24/7 for the MSOE community
+* Facilitate cross-functional Mega Meetings with student organizations
+* FSI improvements
+* Installation of bike pump and fixing station at the library
+* Installation of productivity workstations in the library
+* Installation of water bottle filling stations at the Kern Center and other buildings on campus
+* Reworked overnight residence hall policy to allow overnight guests of the opposite sex

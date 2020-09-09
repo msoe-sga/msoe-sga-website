@@ -32,21 +32,27 @@ github_username:  msoe-sg-hosting
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-pdf-embed
 
 # Permalinks
 permalink                    : posts/:slug
-
+# Post Excerpt
+excerpt_separator: <!--end_excerpt-->
 # Pagination
-paginate                     : 5
-paginate_path                : '/page/:num/'
+pagination:
+  #Site-wide kill switch
+  enabled: true  
+  debug: true
+  per_page: 3
+  permalink: '/:num/'
+  limit: 0
+  sort_reverse: true
 
 collections:
   resources:
     output: true
-    permalink: /resources/:path
-    title: resources
+    permalink: /resources/:path/
 
 blog:
   description: Description is here
