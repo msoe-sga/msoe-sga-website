@@ -34,6 +34,8 @@ The year in review is a report on the projects and accomplishments that Student 
 * $11,198.78 of Student Government Budget Spent  
 
 ## Meeting with the VP Leadership Team
+We had a very successful meeting with the VP Leadership Team. Take a look at the proposal and response documents below.
+
 {% pdf "/assets/Proposals_2020.pdf" %}
 
 {% pdf "/assets/Response Letter.pdf" %}
