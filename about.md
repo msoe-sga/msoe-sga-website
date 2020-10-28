@@ -22,3 +22,20 @@ Since the establishment of the Student Government Association at MSOE, over 100 
 * Installation of productivity workstations in the library
 * Installation of water bottle filling stations at the Kern Center and other buildings on campus
 * Reworked overnight residence hall policy to allow overnight guests of the opposite sex
+
+## Year in Review
+The year in review is a report on the projects and accomplishments that Student Government had in the 2019-2020 academic year.
+
+## Student Government by the Numbers:
+* 26 Senators  
+* 386 Unique voters in the 2019 Freshman Election  
+* 368 Unique voters in the 2020-21 General Election  
+* 187 Passed senate votes  
+* $11,198.78 of Student Government Budget Spent  
+
+## Meeting with the VP Leadership Team
+We had a very successful meeting with the VP Leadership Team. Take a look at the proposal and response documents below.
+
+{% pdf "/assets/Proposals_2020.pdf" %}
+
+{% pdf "/assets/Response Letter.pdf" %}
