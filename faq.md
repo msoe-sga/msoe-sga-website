@@ -2,8 +2,16 @@
 layout: page
 title: Frequently Asked Questions
 permalink: /faq/
-excerpt: Have a question? Check if it has already been answered!
 ---
+
+
+[General](#general)
+
+[Representation](#representation)
+
+[SGA membership and representatives](#sga-membership-and-representatives)
+
+[Responsibilities of Student Government Entities](#responsibilities-of-student-government-entities)
 
 ### General
 **Q: What does SGA stand for?**  
@@ -135,3 +143,5 @@ A: The role of the Committee Chairpersons of SGA is to:
 A: The role of the Committee Members of SGA is to:
 * Represent the best interest of the MSOE student body as directed by Student Government.
 * Vote on all matters within their respective committee meetings.
+
+Last Updated: 10/7/20
