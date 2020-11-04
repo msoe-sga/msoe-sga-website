@@ -9,3 +9,13 @@
 
 - name: FAQ
   link: /faq
+  submenus:
+    - name: General
+      link: /FAQ/#general
+    - name: Representaion
+      link: /FAQ/#representation
+    - name: SGA membership and representatives
+      link: /FAQ/#sga-membership-and-representatives
+    - name: Responsibilities of Student Government Entities
+      linK: /FAQ/#responsibilities-of-student-government-entities
+    
