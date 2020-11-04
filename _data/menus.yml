@@ -8,7 +8,7 @@
   link: /resources
 
 - name: FAQ
-  link: /FAQ
+  link: /faq
   submenus:
     - name: General
       link: /FAQ/#general
