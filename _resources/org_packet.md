@@ -1,6 +1,6 @@
 ---
+layout: page
 title: Student Organization Resource Packet
-layout: post
 permalink: /resources/org_packet
 ---
 

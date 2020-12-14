@@ -21,7 +21,18 @@
   
           <div class="trigger">
             {% for menu in site.data.menus %}
-              <a class="page-link" href="{{ menu.link }}">{{ menu.name }}</a>
+              {% if menu.submenus.size > 0 %}
+                <div class="dropdown-wrapper">
+                  <a class="page-link" href="{{ menu.link }}">{{ menu.name }}</a>
+                  <div class="dropdown-menu-content">
+                    {% for submenu in menu.submenus %}
+                      <a class="trigger_link_dropdown" href="{{ submenu.link | prepend: site.baseurl }}">{{submenu.name}}</a>
+                    {% endfor %}
+                  </div>
+                </div>
+              {% else %}
+                <a class="page-link" href="{{ menu.link }}">{{ menu.name }}</a>
+              {% endif %}
             {% endfor %}
           </div>
 

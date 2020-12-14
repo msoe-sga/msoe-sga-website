@@ -4,15 +4,6 @@ title: Frequently Asked Questions
 permalink: /faq/
 ---
 
-
-[General](#general)
-
-[Representation](#representation)
-
-[SGA membership and representatives](#sga-membership-and-representatives)
-
-[Responsibilities of Student Government Entities](#responsibilities-of-student-government-entities)
-
 ### General
 **Q: What does SGA stand for?**  
 A: SGA stands for Student Government Association.

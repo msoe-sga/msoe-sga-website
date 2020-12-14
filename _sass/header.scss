@@ -12,3 +12,37 @@
 	padding: 2.0rem 0rem;
 	width: 60%;
 }
+.dropdown-wrapper {
+    display: inline-block;
+}
+.dropdown-wrapper:hover .dropdown-menu-content{
+    display: block;
+}
+.dropdown-menu-content {
+    /* Don't want to display the menu until the parent wrapper div is hovered over*/
+    display: none;
+
+    /* Forces the menu to stay in place and prevents it from moving items when it appears */
+    position: absolute;
+    z-index: 2;
+
+    /* Make the text readable when the menu appears*/
+    background-color: #E5E5E5;
+
+    /* Gives some spacing for readability */
+    padding: 1rem;
+
+}
+.trigger_link_dropdown {
+    /* Making the font pretty while also matching nav bar text style*/
+    font-size: 1rem;
+    font-weight: 100;
+
+    /* Provide spacing between link options; done only on the right as to prevent
+        a left margin which would push the bar out of alignment with the logo div*/
+    margin-right: .5rem;
+    margin-bottom: .25rem;
+
+    /* Makes the links display in a downward line*/
+    display: block;
+}
