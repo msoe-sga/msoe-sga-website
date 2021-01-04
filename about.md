@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](/assets/AboutPromotionalPhoto.png)
+
 The Student Government Association (SGA) is an organization that’s by the students, for the students. Our mission is to enrich both the student life and experience while attending MSOE. This is accomplished through standing senate committees on SGA, representation on university committees, advocacy, and approving funding requests to any registered and recognized student organizations on campus.
 
 We achieve this through the work of the Executive branch, the Cabinet, and the Senate. The Executive branch consists of the President and the Vice President. The Cabinet consists of the Parliamentarian, the Treasurer, the Secretary, the Communications Coordinator, and the Events Chairperson. The Senate consists of 10 traditional undergraduate students with 2 freshman undergraduate students. SGA reports through the Office of Student Life and is advised by the Dean of Students. SGA meets every Monday throughout the academic year from 1:05 to 1:50 PM. Any member within the MSOE community is welcomed and encouraged to attend the SGA’s weekly meeting.
