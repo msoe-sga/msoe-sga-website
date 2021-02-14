@@ -4,6 +4,12 @@
 - name: About
   link: /about
 
+- name: eBoard
+  link: /eboard
+
+- name: Senators
+  link: /senators
+
 - name: Resources
   link: /resources
 
