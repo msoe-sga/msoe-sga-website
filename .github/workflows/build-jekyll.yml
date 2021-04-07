@@ -20,5 +20,5 @@ jobs:
       with:
         provider: 'github'
         token: ${{ secrets.GH_TOKEN }}
-        cname: 'msoe-sg.com'                  
+        cname: 'msoe-sga.com'                  
         actor: 'msoe-sg-servicer'
