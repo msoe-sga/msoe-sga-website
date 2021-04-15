@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to the 2020-2021 School Year
 author: Joshua Zieman
+published: false
 ---
 
 Hello Raiders! I like to extend my sincere thank you for electing me as the 2020-2021 Student Government President. I am extremely gracious by your confidence that you have bestowed in me as being the official representation of all students to the Administration, Faculty and Staff here at MSOE. And as your newly elected president, I promise to address the important issues with MSOE’s Administration, Faculty and Staff to ensure the voice of the students is not only hear, but the student’s needs addressed. I would also like to extend a congratulations to my fellow elected Senators. I look forward to working together to get work done.

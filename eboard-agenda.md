@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2020-2021 Eboard Agenda
+permalink: /about/eboard-agenda
 author: Joshua Zieman and Damian Williams
 ---
 
