@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "name": "About",
+    "link": "/about",
+    "submenus": 
+      [
+        {
+          "name": "eBoard Agenda",
+          "link": "/about/eboard-agenda"
+        },
+        {
+          "name": "Committees",
+          "link": "/about/committees"
+        }
+      ]
+  },
+  {
+    "name": "Resources",
+    "link": "/resources"
+  },
+  {
+    "name": "FAQ",
+    "link": "/faq",
+    "submenus":
+      [
+        {
+	  "name": "General",
+          "link": "/faq/#general"
+        },
+        {
+	  "name": "Representaion",
+	  "link": "/faq/#representation"
+        },
+        {
+	  "name": "SGA membership and representatives",
+	  "link": "/faq/#sga-membership-and-representatives"
+        },
+        {
+	  "name": "Responsibilities of Student Government Entities",
+  	  "link": "/faq/#responsibilities-of-student-government-entities"
+        }
+      ]
+  }
+]
