@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Student Organization Resource Packet
+published: false
 permalink: /resources/org_packet
 ---
 
